@@ -1,0 +1,2 @@
+train_epochs,batch_size,lstm_units,activation_final,loss_function,learning_rate,rate
+30,32,"[200, 150]",sigmoid,binary_crossentropy,100.0,46.78
